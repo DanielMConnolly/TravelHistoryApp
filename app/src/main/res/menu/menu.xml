@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mapStart"
+        android:title="Find New Location">
+
+    </item>
+
+    <item
+        android:id="@+id/city"
+        android:title="Show Cities I've visited">
+    </item>
+    <item
+        android:id="@+id/country"
+        android:title="Show Countries I've visited">
+
+
+    </item>
+
+
+
+</menu>
